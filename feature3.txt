@@ -1,2 +1,1 @@
- this is my third feature
-another feature addedonce again
+ this is my third feature sorted
